@@ -7,7 +7,7 @@ The **Workout Tracker API** is a RESTful API built with **Express.js** and **Mon
 - Add new workout entries with details such as distance, duration, calories burned, and heart rate.
 - Retrieve all workouts or filter workouts by various parameters, such as date, distance, calories, and route nickname.
 - Track the total distance run across all workouts.
-- Delete a specific workout by its name (e.g., "MorningRun").
+- Delete a specific workout by its route name.
 
 ## Technologies
 - **Node.js**: JavaScript runtime.
